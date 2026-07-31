@@ -10,4 +10,8 @@ spay_email:
     - ''
 ---
 
-\[child\_pages cols="1"\]
+
+[DMR Nets](/amateur-radio/dmr-nets.md)
+[M17 Nets](/amateur-radio/m17-nets.md)
+[P25 Nets](/amateur-radio/p25-nets.md)
+[Speaking Requests](/amateur-radio/speaking-requests.md)
