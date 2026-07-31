@@ -67,7 +67,7 @@ Michael Rickey - 949-298-0529 - <michael.rickey@gmail.com>
 
 Social Accounts:
 
-- Instagram: [Amichaelaf6fb](https://www.instagram.com/michaelaf6fb/)
+- Instagram: [michaelaf6fb](https://www.instagram.com/michaelaf6fb/)
 - Facebook: [@roger.michael.rickey](https://www.facebook.com/roger.michael.rickey)
 - Mastodon/Fediverse: [@michaelaf6fb@mastodon.radio](https://mastodon.radio/@michaelaf6fb)
 - Bluesky: [@michaelaf6fb.bsky.social](https://bsky.app/profile/michaelaf6fb.bsky.social)

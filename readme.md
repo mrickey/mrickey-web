@@ -1,1 +1,1 @@
-"# mrickey-web" 
+# mrickey-web
