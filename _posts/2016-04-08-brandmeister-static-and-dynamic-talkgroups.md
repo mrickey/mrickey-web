@@ -1,0 +1,28 @@
+---
+id: 139
+title: 'BrandMeister &#8211; Static and Dynamic Talkgroups'
+date: '2016-04-08T14:43:00-07:00'
+author: af6fb
+excerpt: ''
+layout: post
+guid: 'http://35.202.40.146/index.php/2016/04/08/brandmeister-static-and-dynamic-talkgroups/'
+permalink: /2016/04/08/brandmeister-static-and-dynamic-talkgroups/
+blogger_blog:
+    - www.af6fb.net
+blogger_author:
+    - 'Michael Rickey'
+blogger_permalink:
+    - /2016/04/brandmeister-static-and-dynamic.html
+blogger_internal:
+    - /feeds/6390833759081206559/posts/default/5330916133174139895
+image: /wp-content/uploads/2020/09/32631-bm_logo.png
+categories:
+    - 'Amateur Radio'
+tags:
+    - dmr
+format: false
+---
+
+<span style="font-family:'verdana' , sans-serif;"><span style="font-family:'arial';font-size:14.6667px;line-height:22.08px;white-space:pre-wrap;">The </span>[PAPA System](http://www.papasys.com/)<span style="font-family:'arial';font-size:14.6667px;line-height:22.08px;white-space:pre-wrap;"> is evaluating the BrandMeister network for it's Motorola MotoTRBO DMR Repeaters. This is one of several posts with information about the features and capabilities of the BrandMeister network. Please see the links at the bottom of this page for reference links.</span></span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">The BrandMeister network manages talkgroups differently that the C-Bridge.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">On the C-Bridge network each repeater is configured with a set of talkgroups. There are “always-on” and “user activated” (or push-to-talk) groups. These are configured at the C-Bridge and cannot be modified by users from their radios.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">On the BrandMeister network static talkgroups are configured by repeater operators. These talkgroups are similar to always-on talkgroups. They will always transmit when there is traffic. These are the only talkgroups that must be configured by repeater operators.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">Dynamic talkgroups are just that. When a user keys up on a dynamic talkgroup the BrandMeister system creates a subscription for that talkgroup on that repeater. Then, for 15 minutes, the system will send audio for that talkgroup to the repeater. 15 minutes after the last transmission on a given repeater, that talkgroup will be dropped from the repeater.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">Users have the ability to key up on any talkgroup and use it. For us here in California, a user could key up on a Florida state talkgroup and it would work fine. 15 minutes later the connection would drop. Interestingly, the timeslot is not important. The network will route the audio to the repeater and transmit on the same timeslot. It is recommended that timeslot 1 be used for wide area conversations leaving timeslot 2 available to local communications.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">Unlike other linking systems there is no need to drop a connection or restore a link.</span><span style="font-family:'verdana' , sans-serif;"></span><span style="font-family:'verdana' , sans-serif;">Dynamic talkgroups are time slot agnostic. This means I can key up on talkgroup 123 on timeslot 1 and could be talking with someone on talkgroup 123 on timeslot 2. Inside the network there is no time slot, this is only considered when the talkgroup is delivered to a repeater, and it is delivered on the timeslot of the most recent transmission.</span># <span style="background-color:transparent;color:black;font-family:'arial';font-size:26.666666666667px;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Reference</span>
+
+<div dir="ltr" style="line-height:1.38;margin-bottom:0;margin-top:0;"><span style="background-color:transparent;color:black;font-family:'arial';font-size:14.666666666667px;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">BrandMeister Dashboard: <http://BrandMeister.network></span></div><div dir="ltr" style="line-height:1.38;margin-bottom:0;margin-top:0;"><span style="background-color:transparent;color:black;font-family:'arial';font-size:14.666666666667px;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">BrandMester LastHeard:[ https://brandmeister.network/?page=lh](https://brandmeister.network/?page=lh)</span></div><div dir="ltr" style="line-height:1.38;margin-bottom:0;margin-top:0;"><span style="background-color:transparent;color:black;font-family:'arial';font-size:14.666666666667px;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">User Guide: </span>[<span style="background-color:transparent;color:#1155cc;font-family:'arial';font-size:14.666666666667px;font-style:normal;font-variant:normal;font-weight:400;text-decoration:underline;vertical-align:baseline;white-space:pre-wrap;">http://dmrx.net/files/US\_BM\_User\_Guide.pdf</span>](http://dmrx.net/files/US_BM_User_Guide.pdf)</div>

@@ -1,0 +1,29 @@
+---
+id: 130
+title: 'Handheld Mobile'
+date: '2016-07-21T12:33:00-07:00'
+author: af6fb
+excerpt: ''
+layout: post
+guid: 'https://mrickey.com/2016/07/21/handheld-mobile/'
+permalink: /2016/07/21/handheld-mobile/
+blogger_blog:
+    - www.af6fb.net
+blogger_author:
+    - 'Michael Rickey'
+blogger_permalink:
+    - /2016/07/handheld-mobile.html
+blogger_internal:
+    - /feeds/6390833759081206559/posts/default/830876316862054527
+image: /wp-content/uploads/2020/09/9f678-img_20160721_115954.jpg
+categories:
+    - 'Amateur Radio'
+tags:
+    - mobile
+format: false
+---
+
+<div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_115954-224x300.jpg)</div><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">I have done a variety of things for mobile ops over the years. Currently, I'm using a handheld in my car as I haven't taking the time to mount a mobile yet. I've also used a handheld on my motorcycle.</span><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">My preferred mount is the RAM Mount RAM-HOL-BC1U - High Strength Composite Cradle for Devices with Belt Clips. Wow, that name is a mouth full. Let's just call it the Mobile Mount. Here is the official picture from the RAM Mount site.</span><span style="font-family:'georgia' , 'times new roman' , serif;"></span><div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/RAM-HOL-BC1U-300x225.jpg)</div><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">This holder has a diamond mount on the back. I used one of these for a long time before I figured out I needed a place to hang a speaker mic. To do this I simply mounted a piece of metal between the holder and the ball mount. I rapped the metal with para-cord to give the speaker-mic some grip. This gives me a great place to put my speaker-mic. After taking these pictures I see that I should have painted the metal before mounting it.</span><span style="font-family:'georgia' , 'times new roman' , serif;"></span><div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120121-224x300.jpg)</div><div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120136-1-224x300.jpg)</div><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">You will also see that I put some felt pads and rubber on the holder. This isn't really needed in the car, on the motorcycle there is a lot more vibration and having a good fit really helps.</span><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">Next I'll show a few pictures of the other parts. Here you can see the radio on the holder, a short arm, a ball mount and a Pro Clip center console base.</span><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">The Pro Clip bases are great. They make dash, A-pillar, and center console bases for most modern vehicles. The platform they provide is even has marks for the standard AMPS (30mmx38mm) hole pattern used by the RAM balls.</span><div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120010-224x300.jpg)</div><span style="font-family:'georgia' , 'times new roman' , serif;">Here is the same system unfolded so you can see the components better.</span><div style="clear:both;text-align:center;"> ![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120033-224x300.jpg)</div><span style="font-family:'georgia' , 'times new roman' , serif;">Finally, a couple of pictures of the Pro Clip base. This particular unit clips into the top of the console in a gap between a tray and the cover. A tool is included to make space for the clip. It then extends to the bottom of the console and clips around the edge. There is a small amount of double sided tape at each end. I wouldn't want to put a bunch of weight on this, but for a radio or phone it is more that sufficient and works well.</span><div style="clear:both;text-align:center;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120052-224x300.jpg)</div><div style="clear:both;text-align:center;"><span style="font-family:'georgia' , 'times new roman' , serif;margin-left:1em;margin-right:1em;">![](http://35.202.40.146/wp-content/uploads/2016/07/IMG_20160721_120104-224x300.jpg)</span></div><div style="clear:both;text-align:center;"></div><div style="clear:both;text-align:left;"><span style="font-family:'georgia' , 'times new roman' , serif;">I have some velcro straps I run through the rectangular holes in the holder to hold coax and the speaker-mic cable. This provides two functions. One, it keeps the cables close by when I remove the radio. Two, it provides a strain relief for the speaker-mic cable.</span></div><span style="font-family:'georgia' , 'times new roman' , serif;"></span><span style="font-family:'georgia' , 'times new roman' , serif;">Product Links:</span>- <span style="font-family:'georgia' , 'times new roman' , serif;">Amazon: [RAM Mount Holder](http://amzn.to/2hOVIMm)</span>
+- [<span style="font-family:'georgia' , 'times new roman' , serif;">Pro Clip USA</span>](http://www.proclipusa.com/)
+
+<span style="font-family:'georgia' , 'times new roman' , serif;"></span>
