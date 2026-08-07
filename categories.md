@@ -6,8 +6,6 @@ author: af6fb
 excerpt: ''
 layout: page
 guid: 'https://mrickey.com/?page_id=1270'
-spay_email:
-    - ''
 ---
 
 Articles on this blog are divided into a number of different categories. Please select from the following:
