@@ -1,18 +1,33 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-{% include nav.html %}
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  {% include nav.html %}
+  <h1>{{ page.title }}</h1>
+
+  <table border="1" width="100%" cellpadding="2" background="yellow">
+    <tr width="75%">
+        {{ content }}
+    </tr>
+    <tr>
+      <h2>Categories</h2>
+      <ul>
+      {% for category in site.categories %}
+        <li>{{ category[0] }} ({{ category[1].size }} posts)</li>
+      {% endfor %}
+      </ul>
+    </tr>
+  </table>
+
+  <footer>
+    &copy; R. Michael Rickey {{ site.time | date: "%Y" }}
+  </footer>
+</body>
+
 </html>
