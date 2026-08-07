@@ -7,3 +7,4 @@ layout: home
 My home page.
 
 [Amateur Radio](/amateur-radio.md)
+
