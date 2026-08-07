@@ -6,5 +6,5 @@ layout: default
 ---
 My home page.
 
-[Amateur Radio](/amateur-radio.md)
+[Amateur Radio](/amateur-radio.html)
 

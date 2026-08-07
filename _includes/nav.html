@@ -1,8 +1,8 @@
 <nav>
   <ul>
-    {% for item in site.data.navigation %}
-      <li {% if page.url == item.link %}class="active"{% endif %}>
-        <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+    {% for item in site.data.navigation.menu %}
+      <li {% if page.url == item.url %}class="active"{% endif %}>
+        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
       </li>
     {% endfor %}
   </ul>
