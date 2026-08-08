@@ -6,27 +6,30 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/css/style.css">
 </head>
-
 <body>
   {% include nav.html %}
   <h1>{{ page.title }}</h1>
 
-  <table border="1" width="100%" cellpadding="2" background="yellow">
-    <tr width="75%">
-        {{ content }}
-    </tr>
+  <table style="width:100%;border-collapse:collapse;">
     <tr>
-      <h2>Categories</h2>
-      <ul>
-      {% for category in site.categories %}
-        <li>{{ category[0] }} ({{ category[1].size }} posts)</li>
-      {% endfor %}
-      </ul>
+      <td style="width:75%; background-color: beige;padding:10px;vertical-align:top;">
+        {{ content }}
+      </td>
+      <td style="width:25%; background-color: lightblue;padding:10px;vertical-align:top;">
+        <h2>Categories</h2>
+        <ul>
+          {% for category in site.categories %}
+            <li>{{ category[0] }} ({{ category[1].size }} posts)</li>
+          {% endfor %}
+        </ul>
+      </td>
     </tr>
   </table>
 
+  <hr style="clear:both; margin:10px"/>
+
   <footer>
-    &copy; R. Michael Rickey {{ site.time | date: "%Y" }}
+    &copy; {{ site.time | date: "%Y" }} R. Michael Rickey 
   </footer>
 </body>
 

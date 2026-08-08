@@ -4,13 +4,12 @@ title: 'About Me'
 date: '2017-09-07T12:55:27-07:00'
 author: af6fb
 excerpt: ''
-layout: page
+layout: default
 guid: 'http://35.202.40.146/?page_id=55'
-activitypub_status:
-    - federated
 image: /wp-content/uploads/2020/09/c9c43-michael_01.jpg
 ---
 
+![Portrait](/wp-content/uploads/2020/09/c9c43-michael_01.jpg)<br/>
 I have some diverse interests and this blog will try to cover them. I have created categories to help organize posts. Or, just read it all. You are welcome to comment or to reach out in other ways. My contact info is at the bottom of this page.
 
 # About Me
